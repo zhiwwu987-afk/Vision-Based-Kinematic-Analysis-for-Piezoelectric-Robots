@@ -14,3 +14,12 @@ This repository provides a fully automated, machine-vision-based framework desig
 The demonstration video showing the automated tracking of the crab-inspired biomimetic robot is included in the `attachments/` folder. 
 
 ---
+📝 Citation
+If you find this code or our paper useful in your research, please consider citing our work:
+Announce immediately after official publication
+
+
+📧 Contact
+
+For any questions, bug reports, or discussions regarding the code or the paper, please open an issue in this repository or contact:
+Zivi - yc47996@um.edu.mo
