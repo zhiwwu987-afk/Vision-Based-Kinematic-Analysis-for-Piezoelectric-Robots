@@ -1,0 +1,17 @@
+# Vision-Based Kinematic Analysis for Piezoelectric Robots
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
+> **Official implementation of the paper:** 
+> *"A Low-Cost Method for Automated Analysis of Robotic Motion with Strong Generalisation Capabilities"*
+
+This repository provides a fully automated, machine-vision-based framework designed for the kinematic analysis of piezoelectric robots. By leveraging optical flow and intelligent vision algorithms, this system replaces traditional manual observation. It reduces data analysis time from days to approximately one hour, while maintaining high precision for both 1D linear and 2D planar motions.
+
+---
+
+## 🎥 Demo Video
+
+The demonstration video showing the automated tracking of the crab-inspired biomimetic robot is included in the `attachments/` folder. 
+
+---
